@@ -1,4 +1,4 @@
-# ProLoG: Hybrid Prompt and LoRA Based Adaptation of Vision-Language Models for OOD Generalization [AAAI 2026, Oral]
+# ProLoG: Hybrid Prompt and LoRA Based Adaptation of Vision-Language Models for OOD Generalization [AAAI 2026] (Oral Presentation)
 
 > **Authors:** Jungwuk Park, Dong-Jun Han, Jaekyun Moon
 
