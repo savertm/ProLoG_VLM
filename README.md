@@ -3,6 +3,7 @@
 > **Authors:** Jungwuk Park, Dong-Jun Han, Jaekyun Moon
 
 This is the official repository for our AAAI 2026 paper, **“ProLoG: Hybrid Prompt and LoRA Based Adaptation of Vision-Language Models for OOD Generalization.”**  
+
 This repository includes the technical appendix and code. The code will be released soon.
 
 ---
